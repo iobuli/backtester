@@ -1,0 +1,8 @@
+backtrader
+yfinance
+pandas
+pip
+tensorflow
+scipy
+optuna
+numba
